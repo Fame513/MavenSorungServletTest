@@ -27,16 +27,16 @@
         </dependency>
     </dependencies>
 
-    <build>
-        <plugins>
-            <plugin>
-                <artifactId>maven-war-plugin</artifactId>
-                <configuration>
-                    <outputDirectory>/home/fame/Programs/apache-tomcat-9.0.0.M1/webapps</outputDirectory>
-                </configuration>
-            </plugin>
-        </plugins>
-        <finalName>MyApp</finalName>
-    </build>
+    <!--<build>-->
+        <!--<plugins>-->
+            <!--<plugin>-->
+                <!--<artifactId>maven-war-plugin</artifactId>-->
+                <!--<configuration>-->
+                    <!--<outputDirectory>/home/fame/Programs/apache-tomcat-9.0.0.M1/webapps</outputDirectory>-->
+                <!--</configuration>-->
+            <!--</plugin>-->
+        <!--</plugins>-->
+        <!--<finalName>MyApp</finalName>-->
+    <!--</build>-->
 
 </project>
